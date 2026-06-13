@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Degree-Bachelor%20of%20Technology-purple?style=flat-square&logo=read-the-docs&logoColor=white&color=7c3aed" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Specialization-Computer%20Science%20%26%20Engineering-indigo?style=flat-square&logo=codeforces&logoColor=white&color=6366f1" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Specialization-Information%20of%20Technology-indigo?style=flat-square&logo=codeforces&logoColor=white&color=6366f1" alt="Academic Badge" />
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-blue?style=flat-square&logo=google-maps&logoColor=white&color=3b82f6" alt="Location" />
 </p>
 
@@ -27,29 +27,49 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/normal-badge/?username=DINESH-DESHIDI&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/DINESH-DESHIDI?label=Followers&style=flat-square&color=purple" alt="Followers" />
   <img src="https://img.shields.io/github/stars/DINESH-DESHIDI?style=flat-square&color=blueviolet" alt="Stars" />
-</p>
+</p> -->
 
 ---
 
 ## 🌌 About Me
 
-I am a highly motivated **AI-Powered Full Stack Developer** based in Hyderabad, India, specializing in building robust enterprise-grade applications. Transitioning from a core MERN stack foundation, I now engineer intelligent, AI-infused software systems leveraging Generative AI, AI Agents, and Retrieval-Augmented Generation (RAG). 
+I am a passionate Full Stack Developer and Information Technology student with hands-on experience in building scalable web applications, AI-powered solutions, and innovative software products. My expertise spans modern web technologies, backend development, databases, artificial intelligence, and software engineering principles.
 
-My engineering philosophy centers around **Product Engineering**—writing clean, production-ready code while keeping the end-user experience and business value at the forefront. Whether designing scalable databases, creating interactive user interfaces, or orchestrating autonomous AI agents, I aim for high-performance, security, and clean architecture.
+My journey started with frontend development and gradually expanded into full-stack engineering, where I focus on building user-centric applications that solve real-world problems. I enjoy transforming ideas into impactful products, whether it's developing AI-powered platforms, intelligent assistants, management systems, or data-driven applications.
 
-* 💻 **Software Engineering:** Proficient in designing scalable full-stack applications with clean architectures, robust backend APIs, and efficient schema designs.
-* 🧠 **AI/ML Expertise:** Building LLM applications, designing complex multi-agent workflows using LangGraph, and implementing semantic search and advanced RAG architectures.
-* ⚡ **Full Stack Integration:** Experienced with the MERN stack (React, Node, Express, MongoDB) alongside relational databases (PostgreSQL, MySQL) and Prisma ORM.
-* 🎯 **Product Mindset:** Translating complex business challenges into modular, user-focused web products with optimized performance and bulletproof security.
+**💻 Full Stack Development:** Experienced in building end-to-end applications using React.js, Node.js, Express.js, MongoDB, PostgreSQL, REST APIs, authentication systems, and responsive web design principles.
 
-### 🎯 Open To
-* Full-time Software Engineering Roles (Backend / Full-Stack / AI Developer)
-* Collaborative Open Source Projects in AI Agents, RAG, and Web Development
-* Tech speaking engagements and developer community discussions
+**🧠 Artificial Intelligence & Emerging Technologies:** Actively exploring Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, LangChain, LangGraph, vector databases, prompt engineering, and intelligent automation systems.
+
+**🚀 Product Development & Innovation:** Passionate about converting innovative ideas into practical software solutions through scalable architecture, clean code practices, efficient system design, and user-focused development.
+
+**🤖 AI Assistant Development:** Building advanced AI assistant projects inspired by real-world intelligent systems, integrating voice interaction, multimodal capabilities, automation workflows, real-time information retrieval, and LLM-powered decision-making.
+
+**📊 Problem Solving & Software Engineering:** Strong foundation in Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems, Computer Networks, and software engineering best practices.
+
+**🏗️ Backend & System Design:** Interested in designing scalable backend systems, database optimization, API development, authentication & authorization, indexing strategies, caching mechanisms, and cloud-ready architectures.
+
+**🏆 Leadership & Team Management:** Managed as Sports Club President, leading events, coordinating teams, managing activities, and fostering collaboration. Comfortable leading project teams, participating in hackathons, and working in agile environments to deliver impactful solutions.
+
+**🌟 Notable Projects:** College Discovery Platform, Smart Canteen Management System, AI-Powered Applications, JARVIS-MT67 AI Assistant, EcoSmart Exchange Platform, Wi-Fi Intruder Detection System, and Cable Network Management Solutions.
+
+**📚 Continuous Learning:** Dedicated to staying updated with modern technologies, software development trends, AI advancements, open-source contributions, and industry best practices.
+
+**🎯 Career Goal:** To grow as a Software Engineer specializing in Full Stack Development, Backend Engineering, and Artificial Intelligence while building scalable products that create meaningful impact for users and businesses.
+
+**🎯 Open To**
+Software Engineering Internships
+Full Stack Developer Roles
+Backend Development Opportunities
+AI/ML & Generative AI Projects
+Open Source Contributions
+Startup Collaborations & Hackathons
+Technical Communities and Developer Networks
+Product Development & Innovation Projects
 
 ---
 
@@ -58,7 +78,7 @@ My engineering philosophy centers around **Product Engineering**—writing clean
 <div align="center">
   <h3>💻 Languages</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java,svg,bash" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=js,py,java,bash" alt="Languages" />
   </a>
   
   <br/><br/>
@@ -79,7 +99,7 @@ My engineering philosophy centers around **Product Engineering**—writing clean
 
   <h3>🛠️ Cloud, DevOps & Tooling</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,vercel,render" alt="Cloud, DevOps & Tooling" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,vercel,render" alt="Cloud, DevOps & Tooling" />
   </a>
 </div>
 
@@ -89,10 +109,11 @@ My engineering philosophy centers around **Product Engineering**—writing clean
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Generative AI & LLMs** | Advanced | Engineering custom prompts, utilizing LangChain and LangGraph for structured agent workflows, and implementing Gemini & OpenAI APIs. |
-| **Retrieval-Augmented Generation (RAG)** | Advanced | Building robust QA systems using Vector Databases (Pinecone, ChromaDB, PGVector), indexing workflows, chunking optimization, and semantic search. |
-| **Autonomous AI Agents** | Intermediate | Developing stateful multi-agent architectures with LangGraph, tool-calling frameworks, memory-persisted conversations, and autonomous task execution. |
-| **AI Workflows & Integration** | Advanced | Streamlining full-stack workflows by integration of LLMs with Node.js and Python, developing tool interfaces, and optimizing latency. |
+| **Generative AI & LLMs** | Intermediate | Building AI-powered applications using Gemini and OpenAI APIs, prompt engineering, and conversational AI concepts. |
+| **Retrieval-Augmented Generation (RAG) & Vector Databases** | Beginner | Learning embeddings, vector search, document retrieval, chunking, and knowledge-based AI systems.|
+| **AI Agents** | Beginner | Understanding agent architectures, memory systems, tool calling, and autonomous workflow concepts. |
+| **LangChain & LangGraph** | Beginner | Exploring AI workflows, tool integration, chains, agents, and orchestration concepts. |
+| **Full-Stack AI Integration** | Intermediate | Integrating AI features into web applications using React.js, Node.js, Python, and REST APIs. |
 
 ---
 
@@ -124,7 +145,7 @@ The TS EAMCET counseling process involves matching ranks across multiple branche
 <summary><b>🍔 Smart Canteen</b></summary>
 
 ### Smart Canteen
-A digital-first canteen management and pre-ordering ecosystem designed to minimize campus waiting times and eliminate kitchen food waste.
+A digital-first canteen management and pre-ordering ecosystem designed to minimize campus waiting times.
 
 #### 📊 Architecture & Specifications
 | Metric | Details |
@@ -133,7 +154,7 @@ A digital-first canteen management and pre-ordering ecosystem designed to minimi
 | **Scale** | Handles peak campus food orders with live tracking and slot-based distribution. |
 | **Performance** | Sub-50ms API response latency using optimized MongoDB aggregation pipelines for dashboard metrics. |
 | **Security** | Role-based Access Control (RBAC) ensuring separated views for students, staff, and admin. |
-| **Impact** | Boosted canteen throughput by 40% and reduced food waste via real-time pre-order demand projections. |
+| **Impact** | Boosted canteen throughput by 40% and reduced campus waiting times via real-time pre-order demand projections. |
 | **Repository** | [GitHub Repo](https://github.com/DINESH-DESHIDI/SCanteen.git) |
 
 #### 💡 Project Explanation
@@ -188,6 +209,7 @@ JARVIS-MT67 merges advanced multimodal AI models with local operating system hoo
 | :--- | :--- |
 | **Academic Admissions Impact** | Successfully helped local students navigate college admissions with TS EAMCET cutoff analysis tool. |
 | **Autonomous AI Innovation** | Engineered JARVIS-MT67, combining multi-modal Live APIs, Desktop Automation, and custom UI. |
+| **Sports Club Leadership** | Served as Sports Club President, leading sports events, coordinating teams, managing activities, and fostering student engagement and collaboration. |
 | **Consistent Problem Solver** | Solved 150+ coding challenges on LeetCode and GeeksforGeeks, refining algorithmic thinking. |
 
 </div>
@@ -197,23 +219,19 @@ JARVIS-MT67 merges advanced multimodal AI models with local operating system hoo
 ## 📜 Certifications & Credentials
 
 ### ☁️ AWS (Amazon Web Services)
-* <img src="https://img.shields.io/badge/AWS-Educate--Getting_Started_with_Compute-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Educate Badge"/> **AWS Educate – Getting Started with Compute**
+ **AWS Educate – Getting Started with Compute**
   *Gained foundational knowledge of cloud computing, virtual machines, and deployment concepts using AWS services.*
 
 ### 🧠 Generative AI & Tools
-* <img src="https://img.shields.io/badge/AI-Generative_AI_in_Development-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="GenAI Badge"/> **Generative AI in Development**
+ **Generative AI in Development**
   *Accelerating full-stack development workflows using ChatGPT API integration and GitHub Copilot.*
-
 ### 🏢 Oracle (Learning Pathway)
-* <img src="https://img.shields.io/badge/Oracle-OCI_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Badge"/> **Oracle Cloud Infrastructure Associate**
-  *Learning enterprise cloud architecture and core infrastructure services.*
 
-### 🎓 NPTEL
-* <img src="https://img.shields.io/badge/NPTEL-Programming_and_Data_Structures-0052CC?style=flat-square" alt="NPTEL Badge"/> **Programming & Data Structures in Java / Python**
-  *Rigorous academic certification focusing on algorithm complexity, object-oriented concepts, and data structure design.*
+📌 **Oracle Database & SQL**
+*Gained hands-on knowledge of SQL, relational databases, database design, querying, and data management using Oracle technologies.*
 
 ### 🌐 Cisco
-* <img src="https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Badge"/> **Cisco Networking Academy – Introduction to Networks**
+ **Cisco Networking Academy – Introduction to Networks**
   *Foundational knowledge of routing, switching, IP addressing, and network topologies.*
 
 ---
@@ -230,51 +248,11 @@ JARVIS-MT67 merges advanced multimodal AI models with local operating system hoo
   <a href="https://www.hackerrank.com/profile/deshididinesh" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Dinesh--Deshidi-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-  <a href="https://www.codechef.com/users/deshididinesh" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Dinesh--Deshidi-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DINESH-DESHIDI&show_icons=true&theme=radical&title_color=a855f7&icon_color=818cf8&bg_color=0d0d1b&text_color=e2e8f0" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DINESH-DESHIDI&theme=radical&background=0d0d1b&ring=a855f7&fire=a855f7&currStreakNum=e2e8f0" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DINESH-DESHIDI&layout=compact&theme=radical&title_color=a855f7&icon_color=818cf8&bg_color=0d0d1b&text_color=e2e8f0" alt="Top Languages" width="60%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.herokuapp.com/?username=DINESH-DESHIDI&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DINESH-DESHIDI&bg_color=0d0d1b&color=a855f7&line=818cf8&point=c084fc&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DINESH-DESHIDI/DINESH-DESHIDI/main/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
 
 ## 🎯 Current Focus
 
