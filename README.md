@@ -1,6 +1,6 @@
 # DINESH DESHIDI
 
-### Full Stack Developer | AI Enthusiast | Problem Solver | Tech Explorer | GenAI AI Agents
+### Full Stack Developer | AI Enthusiast | Problem Solver | Tech Explorer | GenAI & AI Agents
 
 <br>
 
