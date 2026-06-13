@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=3b0764&customColorEnd=6d28d9&height=220&section=header&text=DINESH%20DESHIDI&fontSize=55&fontColor=ffffff&fontAlignY=35&theme=dark" width="100%"/>
-</p>
+# Dinesh Deshidi
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C084FC&background=00000000&center=true&vCenter=true&width=600&height=50&lines=AI-Powered+Full+Stack+Developer;MERN+Stack+Expert;GenAI+%26+AI+Agents+Engineer;Problem+Solver+%26+Tech+Explorer" alt="Typing SVG" /></a>
-</p>
+### Full Stack Developer | AI Enthusiast | Problem Solver | Tech Explorer | GenAI AI Agents
 
 <p align="center">
   <img src="https://img.shields.io/badge/Degree-Bachelor%20of%20Technology-purple?style=flat-square&logo=read-the-docs&logoColor=white&color=7c3aed" alt="Academic Badge" />
@@ -209,7 +205,7 @@ JARVIS-MT67 merges advanced multimodal AI models with local operating system hoo
 | :--- | :--- |
 | **Academic Admissions Impact** | Successfully helped local students navigate college admissions with TS EAMCET cutoff analysis tool. |
 | **Autonomous AI Innovation** | Engineered JARVIS-MT67, combining multi-modal Live APIs, Desktop Automation, and custom UI. |
-| **Sports Club Leadership** | Served as Sports Club President, leading sports events, coordinating teams, managing activities, and fostering student engagement and collaboration. |
+| **Sports Club Leadership** | Managed as Sports Club President, leading sports events, coordinating teams, managing activities, and fostering student engagement and collaboration. |
 | **Consistent Problem Solver** | Solved 150+ coding challenges on LeetCode and GeeksforGeeks, refining algorithmic thinking. |
 
 </div>
@@ -225,8 +221,8 @@ JARVIS-MT67 merges advanced multimodal AI models with local operating system hoo
 ### 🧠 Generative AI & Tools
  **Generative AI in Development**
   *Accelerating full-stack development workflows using ChatGPT API integration and GitHub Copilot.*
+  
 ### 🏢 Oracle (Learning Pathway)
-
 📌 **Oracle Database & SQL**
 *Gained hands-on knowledge of SQL, relational databases, database design, querying, and data management using Oracle technologies.*
 
