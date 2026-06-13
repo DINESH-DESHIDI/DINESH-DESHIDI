@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Degree-Bachelor%20of%20Technology-purple?style=flat-square&logo=read-the-docs&logoColor=white&color=7c3aed" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Specialization-Information%20of%20Technology-indigo?style=flat-square&logo=codeforces&logoColor=white&color=6366f1" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Specialization-Information%20Technology-indigo?style=flat-square&logo=codeforces&logoColor=white&color=6366f1" alt="Academic Badge" />
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-blue?style=flat-square&logo=google-maps&logoColor=white&color=3b82f6" alt="Location" />
 </p>
 
