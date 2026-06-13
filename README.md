@@ -65,7 +65,7 @@ My engineering philosophy centers around **Product Engineering**—writing clean
   
   <h3>🎨 Frontend</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap,jquery" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind" alt="Frontend" />
   </a>
 
   <br/><br/>
@@ -79,7 +79,7 @@ My engineering philosophy centers around **Product Engineering**—writing clean
 
   <h3>🛠️ Cloud, DevOps & Tooling</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,vercel" alt="Cloud, DevOps & Tooling" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,vercel,render" alt="Cloud, DevOps & Tooling" />
   </a>
 </div>
 
