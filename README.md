@@ -293,7 +293,8 @@ open_to:
 ---
 
 <p align="center">
-  <i>"Simplicity is the ultimate sophistication. Building the future, one line of code at a time."</i>
+  <i>"Simplicity is the ultimate sophistication. 
+    Building the future, one line of code at a time."</i>
 </p>
 
 <p align="center">
