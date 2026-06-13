@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | AI Enthusiast | Problem Solver | Tech Explorer | GenAI AI Agents
 
-
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Degree-Bachelor%20of%20Technology-purple?style=flat-square&logo=read-the-docs&logoColor=white&color=7c3aed" alt="Academic Badge" />
