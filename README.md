@@ -5,9 +5,9 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓%20Degree-B.Tech-6366f1?style=flat-square" />
-  <img src="https://img.shields.io/badge/💻%20Specialization-Information%20Technology-6366f1?style=flat-square" />
-  <img src="https://img.shields.io/badge/📍%20Location-Hyderabad%2C%20India-3b82f6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Degree-B.Tech-6366f1?style=flat-square&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Specialization-Information%20Technology-6366f1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-3b82f6?style=flat-square" />
 </p>
 
 <p align="center">
